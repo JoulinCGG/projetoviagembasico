@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#logo{
+    margin: 15px auto;
+    width: 900px;
+}
+#menu{
+    float: right;
+    padding: 45px 0px;
+}
+#principal{
+    width: 900px;
+    margin: 0 auto;
+}
+footer{
+    text-align: center;
+}
+a{
+    color: rgb(65, 65, 65);
+    text-decoration: none;
+}
